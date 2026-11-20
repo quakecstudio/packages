@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 20 Nov 2026 05:34:17 +0000
+Description: QuakeC Studio packages
+Label: QuakeC Studio
+Origin: QuakeC Studio
+Suite: stable
+MD5Sum:
+ 8332b87e6859031605d30713941d86c5             1002 main/binary-amd64/Packages
+ 8ffbaee041d833d67372a9dc6687eaa7              582 main/binary-amd64/Packages.gz
+ a832661bfcb66f5fc7cb606701e938dc             1002 main/binary-arm64/Packages
+ 2b2786aef905d804853011bf395da8d7              583 main/binary-arm64/Packages.gz
+SHA1:
+ 8b19cd1d962e239beaa55d858f3eb2aa42eac1b6             1002 main/binary-amd64/Packages
+ 1c7f4db9040623717d595a94d3b0b8b6c5912ceb              582 main/binary-amd64/Packages.gz
+ f5186a05c9009823bc7078c7e72ae3d8282294a2             1002 main/binary-arm64/Packages
+ 1e72122abdd5ef9b1b630d5f84b7a7b1e8404fbe              583 main/binary-arm64/Packages.gz
+SHA256:
+ e2e6207056311449b18bf62c06b00955a1a584797134b4ba306d765541cc28c8             1002 main/binary-amd64/Packages
+ 1d5fba13e6c58c2ea1057679b18077e70b329ef325d8ec0d7726d080ce765a54              582 main/binary-amd64/Packages.gz
+ 8edfb01077b53074a44942f4ffe477f1de143a0df4be3362ee79b9e8fd24d0f6             1002 main/binary-arm64/Packages
+ b1c551d9a3cd1e135ab2b74e95fe81c1c84ed1eaec1bb9b2869b3cf14b89ad9d              583 main/binary-arm64/Packages.gz
+SHA512:
+ b47696e1cb861c103a02199f706a522dc8cd2403ff7170f9a717b9a29e014eedcf7b932590e2e65bb6975009662f4337caed07fd33d18357cc30846bb0842a5c             1002 main/binary-amd64/Packages
+ 3a582be68b13afa548d2a4e1424163ff05c186a8049de1e1f39d5459f939199c3dd4799280a0c4b405684da26d9058ab94bf4bbbe488ad339f067f8968da9ab1              582 main/binary-amd64/Packages.gz
+ 21ab2550eea2ed9f27f9487a4ffd31b3a024f854ff01ab977fa20e2775d2ddca949d72a37d88972b0fd18ea2be5b5cd030c97d1f05d4d74cb31c17f56989e15f             1002 main/binary-arm64/Packages
+ 9136bc47582c817fc0207cd36def4b3be79b51770355a9f94bfc2010f6cb0c71a076c6b2e413db0c6a4ec4956e7de379857c726bc060b041b84378886011b6f3              583 main/binary-arm64/Packages.gz

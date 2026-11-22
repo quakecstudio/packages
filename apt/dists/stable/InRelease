@@ -4,35 +4,35 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Fri, 20 Nov 2026 05:34:17 +0000
+Date: Sun, 22 Nov 2026 20:34:47 +0000
 Description: QuakeC Studio packages
 Label: QuakeC Studio
 Origin: QuakeC Studio
 Suite: stable
 MD5Sum:
- 8332b87e6859031605d30713941d86c5             1002 main/binary-amd64/Packages
- 8ffbaee041d833d67372a9dc6687eaa7              582 main/binary-amd64/Packages.gz
- a832661bfcb66f5fc7cb606701e938dc             1002 main/binary-arm64/Packages
- 2b2786aef905d804853011bf395da8d7              583 main/binary-arm64/Packages.gz
+ e96d63105498b2cc094efe3e5ee158a2             2004 main/binary-amd64/Packages
+ 3562a0d88b29e61a4a8b84529ba2138d              708 main/binary-amd64/Packages.gz
+ dc7a5cb4e00973300f71ea1fb9b34496             2004 main/binary-arm64/Packages
+ 9f2e9ec71c74ce257609773e1b14f497              711 main/binary-arm64/Packages.gz
 SHA1:
- 8b19cd1d962e239beaa55d858f3eb2aa42eac1b6             1002 main/binary-amd64/Packages
- 1c7f4db9040623717d595a94d3b0b8b6c5912ceb              582 main/binary-amd64/Packages.gz
- f5186a05c9009823bc7078c7e72ae3d8282294a2             1002 main/binary-arm64/Packages
- 1e72122abdd5ef9b1b630d5f84b7a7b1e8404fbe              583 main/binary-arm64/Packages.gz
+ 1cd88f25eb0ffd878f3a71c8bf2e4da97d02b970             2004 main/binary-amd64/Packages
+ 92744f394f02d329a85bcbff8253ceeb344e145b              708 main/binary-amd64/Packages.gz
+ 71b4508139d8c47a83c740635109b051d2470abf             2004 main/binary-arm64/Packages
+ df88155e0f4741ff77eeac7e3a29ce902ce2351b              711 main/binary-arm64/Packages.gz
 SHA256:
- e2e6207056311449b18bf62c06b00955a1a584797134b4ba306d765541cc28c8             1002 main/binary-amd64/Packages
- 1d5fba13e6c58c2ea1057679b18077e70b329ef325d8ec0d7726d080ce765a54              582 main/binary-amd64/Packages.gz
- 8edfb01077b53074a44942f4ffe477f1de143a0df4be3362ee79b9e8fd24d0f6             1002 main/binary-arm64/Packages
- b1c551d9a3cd1e135ab2b74e95fe81c1c84ed1eaec1bb9b2869b3cf14b89ad9d              583 main/binary-arm64/Packages.gz
+ 2f835675713ae5514d554528208240b110af0136feef035523b500f738da50b6             2004 main/binary-amd64/Packages
+ f88d086ed3b81df53148f0c4538acb887f7f6eede4a84959f0bd527f311e4b70              708 main/binary-amd64/Packages.gz
+ 93fbae97684e24e50edff90f131f02dab2917a5dcc63e26110d3eac33d75f99b             2004 main/binary-arm64/Packages
+ a89a5b22315243994ca0ed087c758d5287b035bcdd0426c3c4ef876e47730d0e              711 main/binary-arm64/Packages.gz
 SHA512:
- b47696e1cb861c103a02199f706a522dc8cd2403ff7170f9a717b9a29e014eedcf7b932590e2e65bb6975009662f4337caed07fd33d18357cc30846bb0842a5c             1002 main/binary-amd64/Packages
- 3a582be68b13afa548d2a4e1424163ff05c186a8049de1e1f39d5459f939199c3dd4799280a0c4b405684da26d9058ab94bf4bbbe488ad339f067f8968da9ab1              582 main/binary-amd64/Packages.gz
- 21ab2550eea2ed9f27f9487a4ffd31b3a024f854ff01ab977fa20e2775d2ddca949d72a37d88972b0fd18ea2be5b5cd030c97d1f05d4d74cb31c17f56989e15f             1002 main/binary-arm64/Packages
- 9136bc47582c817fc0207cd36def4b3be79b51770355a9f94bfc2010f6cb0c71a076c6b2e413db0c6a4ec4956e7de379857c726bc060b041b84378886011b6f3              583 main/binary-arm64/Packages.gz
+ 82c862a7a433d1604dbd41e71626a2b512095a519bc4e55e4e16759b77f0a824f1b5b1fb3c887917871afe8ea1466e52eb1561cbe32fe966d1ad73bfe67e21af             2004 main/binary-amd64/Packages
+ 272ee0f7066c330793a783a9432ddbd36c6c039bdb2ea13cde779b4a8cac0c1756793ddccd4bc5b8130ea82eec5bf5d455051d226fa867ca07b784c55f61c57d              708 main/binary-amd64/Packages.gz
+ 0bebe3ae3979869c589cb483b1bd2f87e4cf177991ce506d364200caba4ca44f8edc92a40f1c9f6656bb0421911d5a186cefb29e0a1b707552eed42d6971bf3f             2004 main/binary-arm64/Packages
+ bf628363d5488c83b07dc55f0df0f6336adfe1c056f9a098855c2faeee1a1b1015918c79cdf969057ad6acdc1db0e8668b77f460f7f9e90fa8cdaeaab67f96ce              711 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSwDW67vScOKmwS9HMDIG8D82WpZgUCav/b2QAKCRADIG8D82Wp
-ZmxxAQDsK8k6HcFKmcUpfdOugcXWXkAliJZccnGxeubBWYCDTgEA77C9vsu8jA4j
-g+95aGP2w13ESxpw0oaIHTxw/TtdBgA=
-=OTG4
+iHUEARYKAB0WIQSwDW67vScOKmwS9HMDIG8D82WpZgUCawNR5wAKCRADIG8D82Wp
+ZnfCAQDVegNJcKcs2F3d++/EJMcHJ1QBZYSe3MrLDpDbbKgJ3AEApLE/89i3uLgm
+4OaAKvNXQ7wBd/aksvCkxIHAjicP2AY=
+=JP+8
 -----END PGP SIGNATURE-----

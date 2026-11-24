@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Sun, 22 Nov 2026 20:34:47 +0000
+Date: Tue, 24 Nov 2026 16:19:16 +0000
 Description: QuakeC Studio packages
 Label: QuakeC Studio
 Origin: QuakeC Studio
 Suite: stable
 MD5Sum:
- e96d63105498b2cc094efe3e5ee158a2             2004 main/binary-amd64/Packages
- 3562a0d88b29e61a4a8b84529ba2138d              708 main/binary-amd64/Packages.gz
- dc7a5cb4e00973300f71ea1fb9b34496             2004 main/binary-arm64/Packages
- 9f2e9ec71c74ce257609773e1b14f497              711 main/binary-arm64/Packages.gz
+ 08b6af162824fcd46bca98b9c25a9147             3006 main/binary-amd64/Packages
+ 8582d87cbd71039ed19aeb2b827857aa              822 main/binary-amd64/Packages.gz
+ 5f6c04fd994cbca81389fc975dfead15             3006 main/binary-arm64/Packages
+ 4909ba7280ca7811c20a2c8856f078e0              825 main/binary-arm64/Packages.gz
 SHA1:
- 1cd88f25eb0ffd878f3a71c8bf2e4da97d02b970             2004 main/binary-amd64/Packages
- 92744f394f02d329a85bcbff8253ceeb344e145b              708 main/binary-amd64/Packages.gz
- 71b4508139d8c47a83c740635109b051d2470abf             2004 main/binary-arm64/Packages
- df88155e0f4741ff77eeac7e3a29ce902ce2351b              711 main/binary-arm64/Packages.gz
+ 5f411fb195f2ed93e78a17b62ce38ad616b53533             3006 main/binary-amd64/Packages
+ 42f72e9d5d3105b767a3744b910c389bbb2a5f96              822 main/binary-amd64/Packages.gz
+ 1cefb440f234c6a184762a7699525dfaa136a482             3006 main/binary-arm64/Packages
+ 935ca66a2d233ea88792a2900b4d7bf79527be08              825 main/binary-arm64/Packages.gz
 SHA256:
- 2f835675713ae5514d554528208240b110af0136feef035523b500f738da50b6             2004 main/binary-amd64/Packages
- f88d086ed3b81df53148f0c4538acb887f7f6eede4a84959f0bd527f311e4b70              708 main/binary-amd64/Packages.gz
- 93fbae97684e24e50edff90f131f02dab2917a5dcc63e26110d3eac33d75f99b             2004 main/binary-arm64/Packages
- a89a5b22315243994ca0ed087c758d5287b035bcdd0426c3c4ef876e47730d0e              711 main/binary-arm64/Packages.gz
+ 2e73a0ea6045a4910582fcd220ae6b0b38e6d3071259013b2e10431ea72c7b85             3006 main/binary-amd64/Packages
+ 2e7958076bcb4c758ad2a361ac3bb11a634c0fca64c347ca3266cf79d318d49d              822 main/binary-amd64/Packages.gz
+ 8858202e8498a1a2e180671a5ff6c1f1a537d62278ad8e20b77dfc7ba71c8d9a             3006 main/binary-arm64/Packages
+ abf45c27454e1dd2ba57efc704e2be9e4365f37889df49d54c21457e5a152891              825 main/binary-arm64/Packages.gz
 SHA512:
- 82c862a7a433d1604dbd41e71626a2b512095a519bc4e55e4e16759b77f0a824f1b5b1fb3c887917871afe8ea1466e52eb1561cbe32fe966d1ad73bfe67e21af             2004 main/binary-amd64/Packages
- 272ee0f7066c330793a783a9432ddbd36c6c039bdb2ea13cde779b4a8cac0c1756793ddccd4bc5b8130ea82eec5bf5d455051d226fa867ca07b784c55f61c57d              708 main/binary-amd64/Packages.gz
- 0bebe3ae3979869c589cb483b1bd2f87e4cf177991ce506d364200caba4ca44f8edc92a40f1c9f6656bb0421911d5a186cefb29e0a1b707552eed42d6971bf3f             2004 main/binary-arm64/Packages
- bf628363d5488c83b07dc55f0df0f6336adfe1c056f9a098855c2faeee1a1b1015918c79cdf969057ad6acdc1db0e8668b77f460f7f9e90fa8cdaeaab67f96ce              711 main/binary-arm64/Packages.gz
+ 0c8113ca1e61684b6960f40ec97704b5691e340ffaad2fd598a172a6db8035137da08402399fc0f87c2ac61fa29e7f789e5ed062bb2369ffbf84aa662930c68a             3006 main/binary-amd64/Packages
+ bfc0d3b603f23986ea3d847840158b13c1c8326c86a4e803d5407973dcddc1ffe9b5340edf438291f1d158e4aeca8400467c44d69bff1468654524b22bcf1ef0              822 main/binary-amd64/Packages.gz
+ 0097d0f2ce7fe98f75a179bc62ee285e8e7a66a1a7dad6adb96e9b60840aa0ba51c2094e26c8280c0ddfe1200f5a941927792232df48a613fee73504da084136             3006 main/binary-arm64/Packages
+ d62415cd1556154a8c822631ce1fdde9de24d6bbc0c058bfe0b6d92dfab20c624d6dd56e875b5f6d224ffd0d0169f7933e98877381b204504023eee007b7ae5c              825 main/binary-arm64/Packages.gz

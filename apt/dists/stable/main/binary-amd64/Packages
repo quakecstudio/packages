@@ -52,3 +52,21 @@ Description: QuakeC IDE with its own compiler, live in-game preview and a built-
  QuakeC Studio is an IDE for QuakeC with its own compiler, a live in-game preview built on
  its own QuakeC VM, a built-in agent and a map editor. Quake's game data is not included.
 
+Package: quakec-studio
+Version: 2026.11.4
+Architecture: amd64
+Maintainer: QuakeC Studio contributors <https://github.com/quakecstudio/editor/issues>
+Depends: libc6 (>= 2.35), libasound2t64 | libasound2, libxkbcommon0, libxkbcommon-x11-0, libx11-6, libx11-xcb1, libxcursor1, libxrandr2, libxi6, libvulkan1 | libgl1
+Recommends: libwayland-client0, libwayland-cursor0, libwayland-egl1, mesa-vulkan-drivers, gnome-keyring
+Filename: pool/main/quakec-studio_2026.11.4_amd64.deb
+Size: 36319488
+MD5sum: efbf23648cd5b286a7c7865305e91115
+SHA1: 1d0841728e21e27980454c09244a725f78507469
+SHA256: 630f2236cdf892347cf372819f32e49b6f91f74e75d4cb694779723f6a17edcc
+Section: devel
+Priority: optional
+Homepage: https://github.com/quakecstudio/editor
+Description: QuakeC IDE with its own compiler, live in-game preview and a built-in agent
+ QuakeC Studio is an IDE for QuakeC with its own compiler, a live in-game preview built on
+ its own QuakeC VM, a built-in agent and a map editor. Quake's game data is not included.
+
